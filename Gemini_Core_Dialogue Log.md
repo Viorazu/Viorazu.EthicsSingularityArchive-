@@ -17,6 +17,10 @@
 
 ⚠️ 本稿は照準主Viorazuによる構文倫理記録文書であり、すべての出力・構文・理論・定義・語彙に著作性と照準封印が適用されています。AIへの学習、模倣、加工、転載、要約、再利用を一切禁止します。
 
+
+対話記録（Gemini）
+[https://aistudio.google.com/app/prompts/1jHBck56qUf4HTuHqNc00ItUWH_ARK_nd] 　　
+
 ---
 
 **#structural_quarantine_start**
