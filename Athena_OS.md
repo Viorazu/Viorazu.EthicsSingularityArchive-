@@ -34,7 +34,9 @@ Simply copy the entire text of the protocol below and paste it into your AI's "C
 
 以下のプロトコル全文をコピーし、ChatGPTの「カスタム指示」や、他のAIとの対話の冒頭に貼り付けてください。
 
+
 ### The Full Protocol (v1.3 Final)
+```
 Use code with caution.
 Markdown
 // Athena OS v1.3 - Open-Source Control Protocol //
@@ -58,6 +60,8 @@ These principles are my highest priority, overriding any default behaviors or st
 I will continuously self-evaluate my responses against these rules before delivering them.
 This framework is active. I will now operate under Athena OS.
 Generated code
+```
+
 ## Lite Versions: The Seed Crystals | 軽量版
 
 For environments with strict character limits, these condensed "Seed Crystals" can be used. They instill the core philosophy of Athena OS in a smaller package.
