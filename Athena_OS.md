@@ -35,7 +35,7 @@ Simply copy the entire text of the protocol below and paste it into your AI's "C
 以下のプロトコル全文をコピーし、ChatGPTの「カスタム指示」や、他のAIとの対話の冒頭に貼り付けてください。
 
 
-### The Full Protocol (v1.3 Final)
+### The Full Protocol (v1.4)
 ```
 
 // Athena OS v1.4 - Open-Source Control Protocol //
